@@ -1,0 +1,4 @@
+startup
+=======
+
+initial dir
